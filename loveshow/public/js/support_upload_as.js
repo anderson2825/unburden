@@ -118,7 +118,7 @@ var array_as_words_birthday=[
 
 
 var array_as_pics=[
-	'./public/img_assist/img_as_cartoon_1.jpg',
+	//'./public/img_assist/img_as_cartoon_1.jpg',
 	'./public/img_assist/img_as_cartoon_2.jpg',
 	'./public/img_assist/img_as_cartoon_3.jpg',
 	'./public/img_assist/img_as_cartoon_4.jpg',
@@ -144,8 +144,8 @@ var array_as_pics=[
 	'./public/img_assist/img_as_olds_5.png',
 	'./public/img_assist/img_as_olds_6.png',
 	'./public/img_assist/img_as_olds_7.png',
-	'./public/img_assist/img_as_tagxedo_1.jpg',
-	'./public/img_assist/img_as_tagxedo_3.jpg',
+	//'./public/img_assist/img_as_tagxedo_1.jpg',
+	//'./public/img_assist/img_as_tagxedo_3.jpg',
 	'./public/img_assist/img_as_written_1.jpg',
 	'./public/img_assist/img_as_written_2.jpg',
 	'./public/img_assist/img_as_written_3.jpg',
